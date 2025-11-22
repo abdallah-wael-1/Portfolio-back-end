@@ -1,0 +1,19 @@
+# Handle line endings
+* text=auto
+
+# Handle JavaScript/JSX files
+*.js text eol=lf
+*.jsx text eol=lf
+
+# Handle JSON files
+*.json text eol=lf
+
+# Handle CSS/HTML files
+*.css text eol=lf
+*.html text eol=lf
+
+# Ignore binary files
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
