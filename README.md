@@ -1,24 +1,21 @@
-# 📦 Portfolio Backend API
+#  Portfolio Backend API
 
 Backend server for the personal **Portfolio Website**, built using **Node.js**, **Express**, and **SQL Server**. This backend is responsible for handling Contact Form submissions and storing them securely in the database.
 
 
-## 🚀 **Features**
-
-*  RESTful API built with **Express.js**
+##  **Features**
 *  Connects to **SQL Server (SSMS)** using `mssql`
 *  Stores contact form messages
 *  Handles validation & error logging
 *  Secure database connection
 
 
-## 🛠️ **Tech Stack**
-
+##  **Tech Stack**
 * **Node.js**
 * **MSSQL (SQL Server)**
 
 
-## 🔗 **API Endpoints**
+##  **API Endpoints**
 
 ### ➤ **POST /api/contact**
 
